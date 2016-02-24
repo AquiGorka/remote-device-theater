@@ -34,4 +34,4 @@ Then open up a browser to: http://localhost:8080 and head to dist/
 Don't forget to get your own PeerJS api key and add it to /src/libs/remote-device/theater.js
 
 ### Demo
-[http://remote-device-puppet.surge.sh/](http://remote-device-puppet.surge.sh/)
+[http://remote-device-theater.surge.sh/](http://remote-device-theater.surge.sh/)
